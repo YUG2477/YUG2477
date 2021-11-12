@@ -19,6 +19,9 @@ Future Full Stack Developer - YUGAL PATIDAR
               # Speech Synthesis |
               # HTML5 canvas |
               # Speech Detection 
+              
+  - My Profile Visits
+ <img src="https://komarev.com/ghpvc/?username=YUG2477&label=PROFILE+VIEWS">             
  
  <img src="https://github-readme-stats.vercel.app/api?username=YUG2477&count_private=true&show_icons=true&theme=radical&hide_rank=false">             
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUG2477&theme=dark" />
