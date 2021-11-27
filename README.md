@@ -25,10 +25,10 @@ Future Full Stack Developer - YUGAL PATIDAR
  
  <img src="https://github-readme-stats.vercel.app/api?username=YUG2477&count_private=true&show_icons=true&theme=radical&hide_rank=false">             
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUG2477&theme=dark" />
- <img src="https://camo.githubusercontent.com/3c798c88debb32735d86c1ab7a0fdf7b484782c05b0f3ee5e2a85b43750412dd/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73687265796b6f7261646961">
+
  
  
- <img src="https://camo.githubusercontent.com/1fe71c8ea351bccd471794d02679f8277357816c52c5fb454bfee7d08c865e5e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d62686176696e766972616e69267468656d653d6461726b">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=YUG2477&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=170A7D)](https://git.io/streak-stats">
  
 
               
