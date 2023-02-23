@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Future Full Stack Developer - YUGAL PATIDAR
+Web Designer - YUGAL PATIDAR
 
 - 👯 I’m Self Taught web designer  and student of IT (B.E) from GTU Gujarat .
 - 🔭 I’m currently working on My Personal website , 100 Days for code challenge and some projects based on javascript.
