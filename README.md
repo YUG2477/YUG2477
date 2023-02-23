@@ -2,7 +2,7 @@
 
 Future Full Stack Developer - YUGAL PATIDAR
 
-- 👯 I’m Self Taught web developer  and student of IT (B.E) from GTU Gujarat .
+- 👯 I’m Self Taught web designer  and student of IT (B.E) from GTU Gujarat .
 - 🔭 I’m currently working on My Personal website , 100 Days for code challenge and some projects based on javascript.
 - 🌱 I’m currently learning  Reactjs and Data Structure in JAVA programming language .
 - 🤔 I’m looking for someone with whom i can discuss new idea and plan about development .
